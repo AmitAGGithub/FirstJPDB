@@ -23,4 +23,4 @@
 
 ![Dashboard Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
 
-![Visualize](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Server.PNG)
+![Visualize](https://github.com/AmitAGGithub/FirstJPDB/blob/main/Screenshot%20(14327).png)
