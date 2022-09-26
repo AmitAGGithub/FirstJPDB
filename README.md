@@ -21,6 +21,6 @@
 
 ### Screenshots:
 
-![Dashboard Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
+![Dashboard Page](https://github.com/AmitAGGithub/FirstJPDB/blob/main/Screenshot%20(14326).png)
 
 ![Visualize](https://github.com/AmitAGGithub/FirstJPDB/blob/main/Screenshot%20(14327).png)
