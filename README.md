@@ -15,10 +15,12 @@
 - It is low level (raw) form of data and is also human readable.
 - It helps developers in faster coding, in-turn reduces development cost.
 
+
+
+![Project Link] https://github.com/AmitAGGithub/FirstJPDB/blob/main/index.html
+
 ### Screenshots:
 
-![Dashboard]
-
-![Index Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
+![Dashboard Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
 
 ![Visualize](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Server.PNG)
